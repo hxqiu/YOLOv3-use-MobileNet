@@ -1,6 +1,6 @@
 ## YOLOv3 use MobileNet
 
-Inspired by [qqwweee/keras-yolo3](https://github.com/qqwweee/keras-yolo3) and MobileNet.
+Inspired by [qqwweee/keras-yolo3](https://github.com/qqwweee/keras-yolo3) and [MobileNet](https://arxiv.org/abs/1704.04861).
 
 ### How to start
 
